@@ -20,3 +20,6 @@ target/
 
 # Entorno local
 .env
+
+# Artefacto del shade plugin
+dependency-reduced-pom.xml
